@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge Maharashtra",
+  "description": "AI-Powered Labour Market Intelligence & Skill Alignment Platform for the Government of Maharashtra (SIH 2026 PS 26134)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
